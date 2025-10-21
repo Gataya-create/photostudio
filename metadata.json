@@ -1,0 +1,7 @@
+{
+  "name": "AI Photo Studio",
+  "description": "An AI-powered application to generate and edit photorealistic images from text and existing photos, featuring diverse styles and AI model creation for e-commerce.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
